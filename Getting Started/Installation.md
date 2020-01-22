@@ -9,7 +9,7 @@ To get the latest version of the Firecamp app, refer to the installation instruc
 - [Chrome Extension](#Chrome)
 
 ## <a id="Mac"></a>Mac ##
-Open the terminal in Mac by searching on the Spotlight menu or finding it in the applications menu. Next, enter the command below in the terminal to install the Firecamp app. 
+Open the terminal in Mac by searching on the Spotlight menu `(⌘ + space bar)` or finding it in the applications menu. Next, enter the command below in the terminal to install the Firecamp app. 
 
 `$ brew cask install firecamp` 
 
@@ -17,7 +17,7 @@ Don't have `Homebrew` on your Mac? [Homebrew installation instructions](https://
 
 `$ brew tap caskroom/cask`
 
-> HOW TO OPEN FIRECAMP (All ways)
+Upon completion, Firecamp can be accessed by searching the Spotlight search menu and is also available in the application folder.
 
 ## <a id="Linux"></a>Linux ##
 Open the terminal in your Linux distro using the shortcut `Ctrl + Alt + T` or by searching in the main menu for the terminal application. When it opens, enter the command below in your terminal prompt to install Firecamp.
@@ -38,3 +38,6 @@ Download the [Firecamp installer](https://firecamp.ams3.digitaloceanspaces.com/v
 Follow the instructions for the installation of the app clicking Next when prompted. This will only take a minute. When completed, the app can be accessed directly from the start menu or will be available as a desktop shortcut.
 
 ## <a id="Chrome"></a>Chrome Extension
+Firecamp Chrome extension can be downloaded from the [Chrome Store](https://chrome.google.com/webstore/detail/firecamp-a-campsite-for-d/eajaahbjpnhghjcdaclbkeamlkepinbl). When installed, Firecamp extension will be available in the Chrome's title bar for use. Double click on the icon to get started with Firecamp.
+
+
