@@ -1,18 +1,30 @@
 # Convert Data Types using the Firecamp Smart Converter
 
-Modern API's return data most popularly in the form of JSON objects. JSON is a open-standard file format that apart from being human-readable is also used to transmit data objects. As the specifications evolve, more data types become availabe such as YAML and XML. To allow for flexiblity, Firecamp allows data types to be easily converted from one type to another.
+Modern API return data properly in the form of JSON objects. JSON is a open-standard file format that apart from being human-readable is also versitile at its job to transmit data objects. As the specifications evolve, more data types become availabe such as YAML and XML. To allow for flexiblity, Firecamp allows data types to be easily converted from one type to another right inside the app.
+
+
+## How the Firecamp Smart Converter helps you
+
+- Real-time conversion between data types makes the workflow faster and convienient without any need of switching between applications.
+- Smart conversion automatically detect and checks for discrepancies in your data format before conversion.
+- Save conversions for reuse later or share it with your team members.
+
 
 ## How it works
 
-The smart converter automatically detects the data type that is being used on the left window and converts it accordingly to JSON, XML, and YAML format. In addition to detection of the data type, Firecamp validates the format of the data type and notifies if there are any discrepanices in the form of warnings and errors.
+The smart converter automatically detects the data type added by the user as input and converts it accordingly to JSON, XML, and YAML format instantly.
 
 > PLACEHOLDER FOR IMAGE of CONVERTING FROM JSON TO XML
 
-Outputs of the data type in different formats can be viewed by clicking the desired format from the toggle button in the top bar. Further options can be selected for specific format if available. Example: When converting XML into JSON, users have the option to choose the representation of JSON data type as `compact`, `non-compact`, `JSObject` and `Plain`.
+In addition to detection of the data type, Firecamp can copy and prettify the input for improving the user experience further. It also validates the format of the data type and notifies if there are any discrepanices in the form of warnings and errors beforehand.
 
-To save your conversions, click the `Save` button in the top bar. Do note that you would need to create a project if not already created before to save it.
 
-## How it help you
-- Real-time conversion makes workflow convienient and faster without switching application.
-- Smart conversion automatically detect and checks for discrepancies in your data format before conversion.
-- Save conversions to projects for sharing with team members.
+## Saving your conversions
+
+Saving your conversions is really important, if in the future you like to reuse or modify your requests for other applications.
+
+> PLACEHOLDER FOR IMAGE of saving a file
+
+To save your conversions when done, click the `Save` button in the top bar. In the dialog box that opens, add a file name (Required) and description (Optional) and select the project or specific module you would like to save the file in. When you are done, click `Save` and you are done!
+
+> Note: The file doesn't need to be in any specific format for it to be saved.
