@@ -19,6 +19,15 @@ The smart converter automatically detects the data type added by the user as inp
 In addition to detection of the data type, Firecamp can copy and prettify the input for improving the user experience further. It also validates the format of the data type and notifies if there are any discrepanices in the form of warnings and errors beforehand.
 
 
+## Cycling between different formats and styles
+
+Outputs of the data type can be viewed in different formats by clicking the desired format from the toggle button in the top bar. This can be really helpful for when you need to convert a particular data type into one or more types for different use cases.
+
+> PLACEHOLDER FOR IMAGE of CONVERTING FROM XML TO JSON
+
+Further options can be selected for specific format if available. Example: When converting XML into JSON, users have the option to choose the representation of JSON data type as `compact`, `non-compact`, `JSObject` and `Plain`.
+
+
 ## Saving your conversions
 
 Saving your conversions is really important, if in the future you like to reuse or modify your requests for other applications.
