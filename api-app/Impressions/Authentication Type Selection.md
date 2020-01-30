@@ -20,4 +20,4 @@ That's one scenario where authentication plays a major role and something you ca
 - No Auth
 - NTLM (Under Development)
 
-You can choose whichever authentication type you need by navigating to the `Auths` tab in the request panel and selecting from either the `Quick auth type selection` or the dropdownlist.
+You can choose whichever authentication type you need by navigating to the `Auths` tab in the request panel and selecting from either the `Quick auth type selection` or the dropdown list.
