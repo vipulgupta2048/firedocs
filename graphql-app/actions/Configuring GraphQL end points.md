@@ -8,7 +8,6 @@ Created: Jan 26, 2020 3:48 AM
 
 - Prior knowledge about GraphQL end-points is advised.
 To learn more about end-points, refer our Glossary.
-- 
 
 ### Directions
 
