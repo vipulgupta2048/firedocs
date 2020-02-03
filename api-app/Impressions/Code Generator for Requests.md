@@ -2,7 +2,7 @@
 
 ## Overview
 
-After creating your request, and saving it in Firecamp. You might have a need to to run the same request in your application. To help with this Firecamp lets you generate snippets of code in various languages and frameworks. Just copy the code from Firecamp, and paste it into your own application.
+After creating your request, and saving it in Firecamp. You might have a need to to run the same request in your application. To help with this Firecamp lets you generate snippets of code in various languages and frameworks. That in turn helps you implement, build and test faster.
 
 Click the `Code` link located below the word "REQUEST" in the request panel of the API app.
 
