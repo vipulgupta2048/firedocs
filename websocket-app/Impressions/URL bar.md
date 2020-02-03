@@ -1,28 +1,17 @@
 # URL bar
 
-Completion Status: No
-Created: Jan 28, 2020 11:29 AM
-
 ## Overview
 
-The URL bar in the API app is the hub area for sending, saving and modifying requests.
+The URL bar in the WebSocket (WS) app is the hub area for establishing, modifying and saving connections.
 
-You can specify the API endpoint in the URL field as well as set the request method that you want to set for your API request. The `Default` and `Project` environmental snippets (if working with project) can be easily accessed as well from the URL bar. Request method available for use in the API app through the dropdown list is as follows:
+The URL bar is where you can specify the server endpoint in the URL field and use the `Connect` button to establish a connection with the WebSockets. The `Default` and `Project` environmental snippets (if working with project) can be easily accessed and selected from the URL bar.
 
-- GET
-- POST
-- PATCH
-- PUT
-- DELETE
-- HEAD
-- OPTION
-- PURGE
-- LINK
-- UNLINK
+## Configuring Protocols
 
-- PLACEHOLDER FOR URL BAR with the request method dropdown list open
+Firecamp WebSocket app offers support to configure protocols for your WebSocket connection. Multiple protocols can be added in the dialog box seperated with , (comma)
 
-If you like to learn more about components of the URL bar then check out the additional resources below. Coming up next is **Making your first request with the API app using the URL bar.**
+> Placeholder for Config menu screenshot in ws app
+
 
 ## Additional Resources
 

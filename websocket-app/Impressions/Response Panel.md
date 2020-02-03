@@ -1,8 +1,5 @@
 # Chatboard - Response Panel
 
-Completion Status: No
-Created: Jan 28, 2020 11:30 AM
-
 ## Overview
 
 After sending your message(s) to the server, the response from the server will appear in the response panel which is called the chat board. The chatboard panel in the Firecamp WebSocket app is to view and format messages received from the server.
