@@ -10,4 +10,3 @@ One can alternatively, use the `Send & Save` button to send the message and simu
 - Chatboard
 - Saved Messages panel
 - Projects in Firecamp
--
