@@ -6,11 +6,11 @@ Created: Jan 26, 2020 3:48 AM
 
 ### Prerequisites
 
-In order to follow along with this Action, you must have:
+In order to follow along with this Action, mkae sure you refer to the following Actions first:
 
-- successfully configured a GraphQL end-point
-- generated data inside the Explorer
-- Build queries inside the playground
+1. Configuring GraphQL end points
+2. Using a sample
+3. Sending your first request with GraphQL
 
 ### Directions
 
