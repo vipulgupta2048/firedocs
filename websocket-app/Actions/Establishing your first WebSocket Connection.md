@@ -2,7 +2,7 @@
 
 In the next few steps, we be creating our very first WebSocket Connection with the Firecamp WebSocket app to monitor events happening in realtime. In this tutorial, we will be learning to establish our first WebSocket Connection with Firecamp through a sample endpoint.
 
-## Prerequistes
+## Prerequisites
 N/A
 
 ## Directions
