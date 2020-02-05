@@ -1,8 +1,5 @@
 # Add Params (Query Parameters)
 
-Completion Status: No
-Created: Jan 26, 2020 3:48 AM
-
 ## Overview
 
 `Params` or query parameters are parameters that are specified after the question mark (`?`) in the form of key-value pairs in the URL.
@@ -12,13 +9,13 @@ For example, breaking down the URL (Uniform Resource Locator) https://jsonplaceh
 The protocol is https
 The domain name is jsonplaceholder.typicode.com
 The path to the resource (Path Parameter) is /posts
-Finally the query paramters being id=12&name=vipulgupta2048
+Finally, the query parameters being id=12&name=vipulgupta2048
 
-Query Paramters are critical in sorting or filtering through resources for developers to find the right data. One can specify query parameters easily using the `Params` tab in the request panel of the API app.
+Query Parameters are critical in sorting or filtering through resources for developers to find the right data. One can specify query parameters easily using the `Params` tab in the request panel of the API app.
 
 > PLACEHOLDeR FOR IMAGE of adding params
 
-Adding query paramters in one place, will lead to them being added in the URL mentioned in the URL bar instantly.
+Adding query parameters at one place in the API app will lead to them being added to the URL bar instantly.
 
 ## Additional Resources
 - URL Bar

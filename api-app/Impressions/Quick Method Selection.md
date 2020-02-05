@@ -1,11 +1,8 @@
 # Quick Method Selection
 
-Completion Status: No
-Created: Jan 28, 2020 11:30 AM
-
 ## Overview
 
-The quick method selection of the API app in Firecamp helps you quickly pick and change the request methods associated with your API request. This feature was designed in accessiblity in mind to help developers switch through popular methods faster and check the response them in real-time. To get the list of all requests methods available, click the dropdown list in the URL bar of the API app.
+The quick method selection of the API app in Firecamp helps you quickly pick and change the request methods associated with your API request. This feature was designed with accessibility in mind to help developers switch through popular methods faster and check the response in real-time. To get the list of all requests methods available, click the dropdown list in the URL bar of the API app.
 
 # What are Request Methods
 
@@ -18,12 +15,12 @@ Guidelines suggest using a specific request method on a specific type of call ma
 Firecamp too makes use of request methods that acts on requests to the API endpoint. These methods are as follows:
 
 - **GET** - The `GET` method is used to retrieve data and should have no other effect on the data.
-- **POST** - ****The `POST` method is used to submit an entity to the specified resource, often causing a change in state or modify the data.
-- **PATCH** - The `PATCH` method is used to apply partial modifications to a resource.
-- **PUT** - The `PUT` method replaces all current representations of the target resource with the request payload.
-- **DELETE** - The `DELETE` method deletes the specified resource.
-- **HEAD** - The `HEAD` method asks for a response identical to that of a `GET` request, but without the response body.
-- **OPTION** - The `OPTION`describes the communication options for the target resource.
+- **POST** - ****The `POST` method is used to submit an entity to the specified resource, often causing a change in state or modify the data.
+- **PATCH** - The `PATCH` method is used to apply partial modifications to a resource.
+- **PUT** - The `PUT` method replaces all current representations of the target resource with the request payload.
+- **DELETE** - The `DELETE` method deletes the specified resource.
+- **HEAD** - The `HEAD` method asks for a response identical to that of a `GET` request, but without the response body.
+- **OPTION** - The `OPTION` describes the communication options for the target resource.
 - **PURGE** - The `PURGE` is used for removing cached files from the server, but can be used for removing anything related to caching.
 - **LINK** - The `LINK` method adds meta-information (Object header information) to an object, without modifying the object's content.
 - **UNLINK** - This `UNLINK` method deletes metainformation about an object. Only headers exactly matching the headers given are removed.

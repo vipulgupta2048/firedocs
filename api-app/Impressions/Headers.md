@@ -15,7 +15,7 @@ Firecamp allows you to create and configure headers right from the `Header` tab 
 
 You will have to set the request headers before sending the request for testing an API. Some of the popular headers are mentioned below:
 
-- **Authorization**: Carries credentials or UUID keys containing authentication information of the client for the resource being requested.
+- **Authorization**: Carries credentials or UUID keys containing the authentication information of the client for the resource being requested.
 
 - **Content-Type**: Indicates media type (text/html or text/JSON etc.) of the response sent to the client by the server, this will help the client in processing the response body correctly.
 

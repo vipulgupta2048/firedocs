@@ -1,8 +1,5 @@
 # Response Panel
 
-Completion Status: No
-Created: Jan 28, 2020 11:30 AM
-
 ## Overview
 
 The response panel in the Firecamp API app is to view, format and get more information about the response of your request.

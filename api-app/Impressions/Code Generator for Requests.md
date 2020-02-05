@@ -2,7 +2,7 @@
 
 ## Overview
 
-After creating your request, and saving it in Firecamp. You might have a need to to run the same request in your application. To help with this Firecamp lets you generate snippets of code in various languages and frameworks. That in turn helps you implement, build and test faster.
+After creating your request, and saving it in Firecamp. You might need to run the same request in your application. To help with this Firecamp lets you generate snippets of code in various languages and frameworks. That, in turn, helps you implement, build and test faster.
 
 Click the `Code` link located below the word "REQUEST" in the request panel of the API app.
 
@@ -18,22 +18,22 @@ Select the code snippet using your mouse, copy and paste it into your applicatio
 ## Supported languages/frameworks
 Firecamp currently supports the following options:
 
-- C             LibCurl
-- Go	        Built-in http package
-- JavaScript	jQuery AJAX
-- JavaScript	XMLHttpRequest
-- Java          OkHttp
-- Java	        Unirest
-- NodeJS	    Naitve (http module)
-- NodeJS	    Request
-- NodeJS	    Unirest
-- Python	    Built-in http.client (Python 3)
-- Python	    Requests
-- Objective-C	Built-in NSURLSession
-- Ruby	        Built-in NET::Http
-- Shell	        wget
-- Shell	        HTTPie
-- Shell	        cURL
-- Swift	        Built-in NSURLSession
+- C LibCurl
+- Go Built-in HTTP package
+- JavaScript jQuery AJAX
+- JavaScript XMLHttpRequest
+- Java OkHttp
+- Java Unirest
+- NodeJS Native (HTTP module)
+- NodeJS Request
+- NodeJS Unirest
+- Python Built-in http.client (Python 3)
+- Python Requests
+- Objective-C Built-in NSURLSession
+- Ruby Built-in NET::Http
+- Shell wget
+- Shell HTTPie
+- Shell cURL
+- Swift Built-in NSURLSession
 
-> GIF of copy pasting CURL into terminal with firecamp
+> GIF of copy-pasting CURL into the terminal with firecamp
