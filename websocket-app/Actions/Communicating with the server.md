@@ -28,4 +28,3 @@ Voila! You successfully connected and communicated with the server. Up next, we 
 - Chatboard
 - URL bar
 - Message panel
-- Saved Messages
