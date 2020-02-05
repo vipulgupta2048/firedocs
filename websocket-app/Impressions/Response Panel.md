@@ -6,7 +6,7 @@ After sending your message(s) to the server, the response from the server will a
 
 The panel defines messages received from the server with a thick blue border on the right while the messages sent by the user with no border at all on the left by default. Hovering the mouse on the top right side of the panel will result in further options appearing. These can be used to change orientation (Left, center, right) of messages, close connection, clear chatboard, or generate code snippets of your WebSocket connection.
 
-The chatboard also provides constant updates in status of the WebSocket connection like establishing of a new connection to close status when terminating connections.
+The chatboard also provides constant updates about the status of the WebSocket connection like when establishing a new connection to close status when terminating connections to any errors that come in between.
 
 
 ## Additional Resource

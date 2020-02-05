@@ -2,7 +2,7 @@
 
 ## Overview
 
-After sending your messages through WebSockets, and saving it in Firecamp. You might have a need to to run and replicate the same connection in your application. To help with this Firecamp lets you generate snippets of code in various programming languages. That in turn helps you implement, build and test faster.
+After sending your messages through WebSockets, and saving it in Firecamp. You might have a need to run and replicate the same connection in your application. To help with this Firecamp lets you generate snippets of code in various programming languages. That, in turn, helps you implement, build and test faster.
 
 Click the `Code` button below the URL bar to open the `WebSocket Code Snippets` window in the WebSocket app.
 
@@ -27,4 +27,4 @@ Firecamp currently supports the following options:
 - Ruby
 - Swift
 
-> GIF of copy pasting python with firecamp and probably running it.
+> GIF of copy-pasting python with firecamp and probably running it.
