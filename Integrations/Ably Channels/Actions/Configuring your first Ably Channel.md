@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Configuring your first Ably Channel
 
 ## Prerequisites 
@@ -14,3 +15,6 @@ To learn about how to obtain an Ably channel instance, refer to the official Abl
 Great! Now you know how to configure and connect your Ably channel. 
 
 ## Additional Resources 
+=======
+
+>>>>>>> bda7afd... Create Configuring your first Ably Channel.md
