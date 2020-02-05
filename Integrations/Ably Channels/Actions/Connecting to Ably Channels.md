@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Connecting to Ably Channels
 
 ## Prerequisites 
@@ -17,3 +18,6 @@
 Voila! You can now join the channel to Ably and debug/test it. 
 
 ## Additional Resources 
+=======
+
+>>>>>>> d8e1441... Create Connecting to Ably Channels.md
