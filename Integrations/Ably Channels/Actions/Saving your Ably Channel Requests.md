@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Saving your Ably Channel Requests
 
 ## Prerequisites 
@@ -15,3 +16,6 @@ You can save Pusher channel requests to any project of your liking and access it
 Voila! You can now move to explore the saved requests in the `Connect` dock to manage and access them later.
 
 ## Additional Resources 
+=======
+
+>>>>>>> d0a448f... Create Saving your Ably Channel Requests.md
