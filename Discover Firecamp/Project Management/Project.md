@@ -1,91 +1,44 @@
-# Project
+Project
+What is Firecamp project?
+Firecamp Project is a collection of modules and requests.
 
-Created: Jan 26, 2020 3:48 AM
+It administrates your project skeleton and helps you to organize modules and requests you made.
 
-WILL EDIT LATER
+Why create project?
+However, requests are created and updated repeatedly you may face adversity when you are looking for a particular request.
 
-**Introduction**
+It might be very time consuming to find a particular request within the whole Project Bar.
 
-### **What is Project Bar?**
+Here are some points listed below.
 
-How do you feel if you are developing or testing code with FirecampApp and suddenly you have to halt?
+Documentation: You can add a project description in a firecamp. Once you have created a project and want to reuse it in the future that time you will easily get an idea about your project by description.
+Organization: You can have your requests in a folder by creating a module(link) and project.
+How to create project?
+To create a project, follow these steps:
 
-frustrated? annoyed?
+Click on
 
-Don't worry about it, Firecamp provides you a facility to save your endeavor. You just have to save your request in the Project bar.
+button or click on the Create Project button looks like below image:
 
-Project Bar is an assemblage of your saved requests. It is placed at the left most corner of the FirecampApp.
 
-Firecamp Project bar assembles requests in [project](https://firecamp.io/docs/firecamp/project-bar/project) or it's assosiative [module](https://firecamp.io/docs/firecamp/project-bar/module). Project and modules holds your analogous request in convenient manner.
+Enter a project name and project description (description is an optional field, it is not mandatory to add, you can add project description in simple text or in markdown. it is only for documentation and for your reference).
 
-**Explore Project bar**
 
-![https://firecamp.io/static/docs/explore-fc.png](https://firecamp.io/static/docs/explore-fc.png)
+After adding project details, click on Create or hit enter. Your project is created.
 
-### **Project**
 
-Project is a container that contains modules and requests which belongs to same subject.
 
-![https://firecamp.io/static/docs/project-bar/project.png](https://firecamp.io/static/docs/project-bar/project.png)
+How to Organize project?
+Rename project:
+At one time you think that the name you have set to project is not suitable or not right as your perspective, and you want to rename it. You can rename the project by double-clicking on the existing project name or by clicking on
 
-Here is an image of the created project, that includes the project name, requests count and module count which belongs to the project.
+button.
 
-To get more details about project, click [here](https://firecamp.io/docs/firecamp/project-bar/project)
 
-### **Module**
 
-The module belongs to a project which has the same kind of requests and modules.
+you will have a menu, just click on Rename. Enter a new name and press enter, and the project will be renamed.
 
-The module gathers submodules and requests which are having the same purpose to be.
+Delete project:
+Sometimes you wonder the project you created is not in use or no longer to use, and you want to delete it. You can delete the project by clicking on Delete as shown in the above image in the Rename project.
 
-![https://firecamp.io/static/docs/project-bar/module.png](https://firecamp.io/static/docs/project-bar/module.png)
-
-The above image includes module name, requests count and sub-modules count that belong to module.
-
-To know more about module, click [here](https://firecamp.io/docs/firecamp/project-bar/module)
-
-### **Request**
-
-The request is nothing but your attempt to code or test something. You can save your attempt within the project or module.
-
-Your work will not vanish, you just have to save work to get it in the future.
-
-![https://firecamp.io/static/docs/project-bar/request-socket-io.png](https://firecamp.io/static/docs/project-bar/request-socket-io.png)
-
-Your request will look alike the above image. That includes the request type and name.
-
-Request can be from Apps and Tools and it is not easy to find a particular request with the desired type.
-
-don't worry, Firecamp will help you to find requests having a distinct type.
-
-Here are some requests which are having different types
-
-**Socket-io**
-
-![https://firecamp.io/static/docs/project-bar/request-socket-io.png](https://firecamp.io/static/docs/project-bar/request-socket-io.png)
-
-**WebSocket**
-
-![https://firecamp.io/static/docs/project-bar/request-web-socket.png](https://firecamp.io/static/docs/project-bar/request-web-socket.png)
-
-**Pusherchannels**
-
-![https://firecamp.io/static/docs/project-bar/request-pusher-channels.png](https://firecamp.io/static/docs/project-bar/request-pusher-channels.png)
-
-**JSON Converter**
-
-![https://firecamp.io/static/docs/project-bar/request-json-converter.png](https://firecamp.io/static/docs/project-bar/request-json-converter.png)
-
-**Markdown Converter**
-
-![https://firecamp.io/static/docs/project-bar/request-markdown-converter.png](https://firecamp.io/static/docs/project-bar/request-markdown-converter.png)
-
-If you want more information about request, get it from [here](https://firecamp.io/docs/firecamp/project-bar/request)
-
-[Next](https://firecamp.io/docs/)
-
-Contents
-
-[What is Project Bar?](https://firecamp.io/docs/firecamp/project-bar/introduction/#what-is-project-bar)
-
-[Project](https://firecamp.io/docs/firecamp/project-bar/introduction/#project)
+To add module and add request, just follow the same flow and choose apropriate option.

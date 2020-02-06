@@ -4,7 +4,7 @@ Created: Jan 26, 2020 3:48 AM
 
 ## Overview
 
-Modules can be thought of as sub-directories that you can create in your Firecamp project. One can use modules to organize, manage and group similar requests, files, and even add more modules for easier access. 
+Modules can be thought of as sub-directories that you can create in your Firecamp project. One can use modules to organize, manage and group similar requests, files, and even add more modules for easier access.
 
  > PLACEHOLDER for a image in replacement of this one (with caption)
 
@@ -12,7 +12,15 @@ Modules can be thought of as sub-directories that you can create in your Firecam
 
 ## Creating Modules
 
-To create a module, click on 
+To create a module, click on
+
+
+
+
+
+
+
+
 
 button at end of the project name.
 
