@@ -1,4 +1,4 @@
-Project
+# Firecamp Project
 What is Firecamp project?
 Firecamp Project is a collection of modules and requests.
 
