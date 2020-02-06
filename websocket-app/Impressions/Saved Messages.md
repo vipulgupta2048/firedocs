@@ -4,7 +4,11 @@ Writing messages for testing and debugging a WebSocket connection, again and aga
 
 ## Saving your first message
 
-To save messages in Firecamp, type a message in the `MESSAGE` panel at the bottom of the WebSocket app in either of the formats that is `Text` or `JSON`. When you are ready to send, use the `Send & Save` button to send the message to the server as well as save the message in the `messages` panel on the right for easy replication. You can add a `Title` to the messages as well for better navigation later. If no `Title` is mentioned, the system date and time are used as a unique title to the messages saved.
+To save messages in Firecamp, type a message in the `MESSAGE` panel located at the bottom of the WebSocket app in either of the formats that is `Text` or `JSON`.
+
+When you are ready to send, use the `Send & Save` button to send the message to the server as well as save the message in the `messages` panel on the right for faster replication.
+
+ Optionally, you can add a `Title` to the messages for better navigation and management. If no `Title` is mentioned then Firecamp by default sets the system date and time as a unique title to the messages being saved.
 
 ## Managing Saved Messages
 
