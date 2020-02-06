@@ -1,4 +1,4 @@
-# Access and manage saved Pusher Channels with its Binds and Triggers
+# Access and manage saved Pusher Channels
 
 ## Prerequisites
 
