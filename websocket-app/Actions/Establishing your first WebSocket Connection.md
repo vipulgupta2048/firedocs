@@ -23,7 +23,7 @@ N/A
  - In the dialog box that appears, mention the `Close Status` code. It must be `1000` or in-between `3000` to `4999`. Optionally, mention the `Reason` as well if you are testing it.
  - When done, click the `Close WS` button to close the connection. The connection will be closed listing the `Close Status` and `Reason` in the chatboard.
 
-Voila! You just established your first WebSocket connection successfully and closed it with proper status code and reason. Up next, we will learn how to communicate with the server.
+Voila! You established your first WebSocket connection successfully and closed it with proper status code and reason. Up next, we will learn how to communicate with the server.
 
 
 ### Short descriptive GIF (w ALT text)

@@ -1,6 +1,6 @@
 # Saving and Managing Messages
 
-Testing and debugging WebSockets takes time and repetitive effort when covering a lot of cases in a distributed team environment. With Firecamp, your team members can save messages in your WebSocket easily for faster replication.
+Testing and debugging WebSockets takes time and repetitive effort when covering a lot of cases in a distributed team environment. With Firecamp, your team members can save messages inside the WebSocket app for a faster, more convenient debugging experience.
 
 
 ## Prerequisites
