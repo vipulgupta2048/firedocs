@@ -2,7 +2,7 @@
 
 We at Firecamp understand developer's plight when exporting and importing projects to and from different platforms. We built Firecamp keeping flexibility and accessibility in mind. Hence, whichever 3rd party client or platform you were using before, we make sure that your transition to Firecamp is smooth and things just work out for you and your team. We call our import feature, the `Black Hole`.
 
-Just drop in raw files from any supported platform, any specification or even URL's into the `Black Hole` on the homepage and Firecamp will handle the heavy lifting. If you like to suggest support for other platforms or any improvements. You can open an issue on [GitHub](https://github.com/firecampapp/Firecamp/issues)
+Just drop in raw `file` or `JSON` from any supported platform, any specification or even URL's into the `Black Hole` and Firecamp will handle the heavy lifting for you. If you like to suggest support for other platforms or any improvements. You can open an issue on [GitHub](https://github.com/firecampapp/Firecamp/issues)
 
 # Importing projects from raw JSON
 To import your files and projects using JSON, drop the JSON file into the Import Zone `Black Hole` located on the homepage of the Firecamp app. This will import your project and subsequent modules, requests and files in their relevant locations.
