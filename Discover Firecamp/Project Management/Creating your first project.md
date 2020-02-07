@@ -19,15 +19,3 @@ Files in Firecamp are created when saving outputs of utilities such as the JSON/
 4. In the dialog box that opens, type an appropriate name and description for your project as reference. Click on the blue `create` button to create the project. You can see your new project being promptly added below the `Search` bar.
 
 Voila! You created your first project. To create a module or request inside your project. Click on the newly created project in the side bar to show the dropdown modal with options to create `Module` or `Request`.
-
-## Managing Projects and Modules
-
-Firecamp offers features that effectively manage your projects and modules as per your preference. These options are available by clicking on the 3 dot menu icon that appears as you hover over the project or module bar.
-
-- **Search bar**: Use the search bar to search for saved modules, requests and files.
-- **Rename**: To rename a project or a module, double-click on the existing name or go into the menu > select `Rename` option. Enter a new name as per your preference and hit enter key when done.
-- **Add Module**: To add a module inside a project or a module, go into the menu > select `Add Module` option. Enter a new name as per your preference and hit enter key when done.
-- **Add Request**: To add request, go into the menu > select `Add Request` option, Select request type, enter request name and hit the enter key to add the request.
-- **Delete**: To delete a project/module/request/file, go into the menu > select `Delete` option. Click the `delete` button in the box that appears to delete the project/module/request/file
-- **Env Snippets**: To view and modify environmental snippets associated with the specific project, go into the menu > select `Env Snippets` option. Read more about Environmental Snippets on Firecamp.
-- **Export**: Firecamp exports projects in JSON format. To export a project, go into the menu > select `Export` option. In the dialog box that opens, specify where the file needs to be saved and click the `Save` button.
