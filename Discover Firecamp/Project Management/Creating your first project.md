@@ -18,4 +18,8 @@ Files in Firecamp are created when saving outputs of utilities such as the JSON/
 
 4. In the dialog box that opens, type an appropriate name and description for your project as reference. Click on the blue `create` button to create the project. You can see your new project being promptly added below the `Search` bar.
 
-Voila! You created your first project. To create a module or request inside your project. Click on the newly created project in the side bar to show the dropdown modal with options to create `Module` or `Request`.
+Voila! You created your first project. To create a module or request inside your project. Click on the newly created project title in the side bar to show the dropdown modal with options to create `Module` or `Request`. Click on the desired link to create the same. Firecamp offers a host of features to manage projects and modules as per your preferences. For more information, read about Managing projects and modules in Firecamp.
+
+Alternatively, you can start working on any of the apps, integrations or utilities available on the homepage of the Firecamp app and later, save that request for file into a project through the `Save` button that is available. For more information, read about saving your first request in Firecamp.
+
+Firecamp also supports a host of other platforms from which you can import projects from and get started quickly. Read more about importing projects to Firecamp.
