@@ -2,6 +2,8 @@
 
 ## Prerequisites 
 
+- A configured Pusher channel 
+
 ## Directions 
 
 You can save Pusher channel requests to any project of your liking and access it to debug and test the requests later.
