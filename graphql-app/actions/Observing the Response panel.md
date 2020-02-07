@@ -6,17 +6,19 @@ Created: Jan 26, 2020 3:48 AM
 
 ### Prerequisites
 
-In order to follow along with this Action, you must have:
+In order to follow along with this Action, mkae sure you refer to the following Actions first:
 
-- successfully configured a GraphQL end-point
-- generated data inside the Explorer
-- Build queries inside the playground
+1. Configuring GraphQL end points
+2. Using a sample
+3. Sending your first request with GraphQL
 
 ### Directions
 
-1. Select a query from the unified schema you have not created inside the Playground 
-2. Click on the Run button placed on the edge of the Playground to run the selected query
-3. Inspect the response inside the Response Panel
+1. Once you're done sending a GraphQl request to the server succesfully, observe the results in the Response Panel.
+2. The Body tab in the Response Panel displays the results shown by the server in response to your request.
+3. The Headers tab beside it shows the details about the response like content-type, content-length, server name, date and time of the response, etc. 
+4. Additionally, you can check for the cookies in the Cookies tab.
+5. Another important tab is the Timeline tab that describes the data and gives additional information about the request and the response like request headers and data, and response headers and data respectively. 
 
 ### Short descriptive GIF (w ALT text)
 
