@@ -1,1 +1,12 @@
+# Message Panel
 
+Sending and receiving messages while debugging your WebSocket connection is the core part of the experience with the Firecamp WebSocket app.
+
+Through the message panel located at the bottom, users can click the `send` button to send messages in various formats to the server and check the response in the chatboard panel. Messages can be sent in two formats, namely `Text` and `JSON`.
+
+One can alternatively, use the `Send & Save` button to send messages and simultaneously save them to the `Saved Messages` panel located on the right in the WebSocket app. Optionally, messages being sent can be grouped in the `Saved Messages` panel for better management if the titles are same. This can be achieved by adding a title using the `Title` input bar located at the bottom.
+
+## Additional Resources
+- Chatboard
+- Saved Messages panel
+- Projects in Firecamp
