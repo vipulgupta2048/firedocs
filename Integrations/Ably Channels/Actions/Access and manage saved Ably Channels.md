@@ -2,7 +2,11 @@
 
 ## Prerequisites
 
+<<<<<<< HEAD
 - An existing Ably Channel
+=======
+- An existing Pusher Channel
+>>>>>>> c58f367... Update and rename Saving an Ably Channel.md to Access and manage saved Ably Channels.md
 - A configured and saved channel request. 
 
 ## Directions
