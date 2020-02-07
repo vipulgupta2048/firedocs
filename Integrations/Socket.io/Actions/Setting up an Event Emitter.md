@@ -1,0 +1,19 @@
+# Setting up an Event Emitter
+
+## Prerequisites 
+
+- A configured and connected Socket.io 
+- Active Event listener
+
+## Directions 
+
+1. Naviagte to the `Emit Event` bar to set up a new event emitter for your Socket.io connection.
+2. Enter the Event Emitter name in the field with the `Emit Event Name` placeholder.
+3. Enter any args you want to pass as key value pairs in the `Arguments` tab. You can set multiple arguments by opening a new `Argument` tab.
+4. Click on the `Emit` button to Emit the event.
+5. Alternatively, click on the `Emit & Save` button to emit and save simultaneously.
+6. You can see your active event emitters in the Emitters field on the right.
+
+Awesome! Your Socket.io connecition is ready to test.
+
+## Additional Resources 

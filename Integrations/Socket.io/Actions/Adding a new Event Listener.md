@@ -1,0 +1,16 @@
+# Adding a new Event Listener
+
+## Prerequisites 
+
+- A configured and connected Socket.io 
+
+## Directions 
+
+1. Naviagte to the `Listeners` panel to add a new event listener for your Socket.io connection.
+2. Go to the `+` field with the `Add event listener` placeholder and add your listener name (eg. Messages).
+3. Click on the `Add` button.
+4. You can see your `Active` and `All` listeners in the tabs below the Add listener field.
+
+Great! Let's set up an Event Emitter shall we?
+
+## Additional Resources 
