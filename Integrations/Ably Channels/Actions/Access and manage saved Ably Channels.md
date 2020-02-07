@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-- An existing Pusher Channel
+- An existing Ably Channel
 - A configured and saved channel request. 
 
 ## Directions
