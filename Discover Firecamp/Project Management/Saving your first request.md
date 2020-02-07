@@ -1,6 +1,6 @@
 # Saving your First Request
 
-Saving requests and files in Firecamp is quite intituive. Much like what would you see in your own computer. This tutorial would help you work effectively with the projects in Firecamp and make sure that no data is lost. Saving requests in Firecamp is similar across apps, integrations and utilities. Hence, we will be taking the example for running a sample request in the API app and saving that request into a project.
+Saving requests and files in Firecamp is quite intuitive. Much like what you would see on your computer. This tutorial would help you work effectively with the projects in Firecamp and make sure that no data is lost. Saving requests in Firecamp is similar across apps, integrations, and utilities. Hence, we will be taking the example for running a sample request in the API app and saving that request into a project.
 
 ## Prerequisites
 - Creating your first project
@@ -8,8 +8,8 @@ Saving requests and files in Firecamp is quite intituive. Much like what would y
 ## Directions
 1. Open the `Firecamp` app. If not installed, read the installation instructions.
 
-2. Click `API` button on the homepage to open the `API` app.
-   - The API app in Firecamp defaults to the URL `https://jsonplaceholder.typicode.com/posts` as we see in the URL bar. We will use this to make our sample request.
+2. Click the `API` button on the homepage to open the `API` app.
+- The API app in Firecamp defaults to the URL `https://jsonplaceholder.typicode.com/posts` as we see in the URL bar. We will use this to make our sample request.
 
 3. Click the `Send` button present in the URL bar to send a sample request, and inspect the response panel.
 
@@ -20,3 +20,5 @@ Saving requests and files in Firecamp is quite intituive. Much like what would y
 Awesome! This process is similar for all requests and files you would encounter in Firecamp.
 
 ## Additional Resources
+-
+-
