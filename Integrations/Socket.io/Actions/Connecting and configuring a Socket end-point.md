@@ -1,0 +1,16 @@
+# Connecting and configuring a Socket end-point
+
+## Prerequisites 
+
+N/A
+
+## Directions
+
+1. To test your Socket.io connection, connect to the socket end-point.
+2. To achieve this connection, enter the end-point in the URL bar at the top of the window.
+3. Configure the end-point by clicking on the `Config` icon on the left of the `Connect` button.
+4. Enter the `Path` and set the `Query` and `Header` keys to configure the end-point.
+
+Awesome! Now you can head to the next step that is setting up Event Listeners and Event Emitters for your connection.
+
+## Additional Resources 
