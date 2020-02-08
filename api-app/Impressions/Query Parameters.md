@@ -1,4 +1,4 @@
-# Add Params (Query Parameters)
+# Params (Query Parameters)
 
 ## Overview
 
