@@ -1,8 +1,5 @@
 # Response Panel
 
-Completion Status: No
-Created: Jan 26, 2020 3:48 AM
-
 ## Overview
 
 The response panel in the Firecamp GraphQL app is to view, format and get more information about the response of your request.
