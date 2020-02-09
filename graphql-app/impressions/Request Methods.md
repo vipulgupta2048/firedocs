@@ -1,8 +1,5 @@
 # Request Methods
 
-Completion Status: No
-Created: Jan 26, 2020 3:48 AM
-
 ## Overview
 
 Request methods are used by protocols like `HTTP` at the times of request to indicate the desired action that needs to be performed for a given resource. Each of the request methods implements a different semantic and is made for different purposes. Additionally, some common features are shared by a group of them.
