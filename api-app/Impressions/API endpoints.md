@@ -1,4 +1,4 @@
-# What exactly are API endpoints?
+# API endpoints
 
 ## Overview
 
