@@ -1,6 +1,5 @@
 # Creating and managing Environmental Snippets
 
-Created: Jan 26, 2020 3:48 AM
 
 ### Creating an environmental snippet
 
