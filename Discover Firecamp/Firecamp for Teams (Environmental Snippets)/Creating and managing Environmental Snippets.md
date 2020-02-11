@@ -5,7 +5,7 @@
 
 ### Prerequisites
 
-To be able to follow along with this Action, make sure to learn about Environmental Snippets in our Impressions section of the Docs.
+To follow along with this tutorial better, read more about [Environmental Snippets](Link to Snippets) 
 
 ### Directions
 
