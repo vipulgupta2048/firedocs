@@ -12,6 +12,6 @@ Types of Firecamp Environment Snippets:
 *Note*: There exists a `default global snippet` for your workspace. However, you can learn how to create multiple `Global` and `Project` snippets for better API testing in the additional resources at the end of this Impression. 
 
 
-`Environment Snippets` uncomplicate the process of managing variables for requests in a distributed team. Your team can effectively create,  modify and maintain a single source of truth for all your variables between different project environments (Staging, Production, Development, etc.). 
+`Environment Snippets` uncomplicate the process of managing variables for requests in a distributed team. Your team can effectively create, modify and maintain a single source of truth for all your variables between different project environments (Staging, Production, Development, etc.). 
 
 ## Additional Resources 
