@@ -1,4 +1,4 @@
-# Chatboard
+# Chatboard Panel
 
 ## Overview
 
