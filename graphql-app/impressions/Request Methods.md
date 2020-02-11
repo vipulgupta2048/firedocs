@@ -8,18 +8,9 @@ Guidelines suggest using a specific request method on a specific type of call ma
 
 ## Request Methods used in Firecamp
 
-Firecamp too makes use of request methods that acts on requests made to your GraphQL endpoint. These methods are as follows:
+Firecamp makes use of request methods that acts on requests made to your GraphQL endpoint. In most GraphQL requests, POST is the request method that is being used.
 
-- **GET** - The `GET` method is used to retrieve data and should have no other effect on the data.
-- **POST** - ****The `POST` method is used to submit an entity to the specified resource, often causing a change in state or modify the data.
-- **PATCH** - The `PATCH` method is used to apply partial modifications to a resource.
-- **PUT** - The `PUT` method replaces all current representations of the target resource with the request payload.
-- **DELETE** - The `DELETE` method deletes the specified resource.
-- **HEAD** - The `HEAD` method asks for a response identical to that of a `GET` request, but without the response body.
-- **OPTION** - The `OPTION`describes the communication options for the target resource.
-- **PURGE** - The `PURGE` is used for removing cached files from the server, but can be used for removing anything related to caching.
-- **LINK** - ****The `LINK` method adds meta-information (Object header information) to an object, without modifying the object's content.
-- **UNLINK** - This `UNLINK` method deletes metainformation about an object. Only headers exactly matching the headers given are removed.
+- **POST** - The `POST` method is used to submit an entity to the specified resource, often causing a change in state or modify the data.
 
 ## Additional Resources & References
 
