@@ -1,4 +1,4 @@
-# Chatboard - Response Panel
+# Chatboard
 
 ## Overview
 
@@ -10,5 +10,5 @@ The chatboard also provides constant updates about the status of the WebSocket c
 
 
 ## Additional Resource
-- Generate Code Snippets for WebSockets
-- Sending your first message
+- Code Snippets for WebSockets
+- Communicating with server through messages
