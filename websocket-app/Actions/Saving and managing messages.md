@@ -4,7 +4,7 @@ Testing and debugging WebSockets takes time and repetitive effort when covering 
 
 ## Prerequisites
 - Establishing your First WebSocket connection
-- Communicating with the server
+- Communicating with the server through messages
 
 We will be using the sample endpoint `ws://echo.websocket.org` to establish the WebSocket connection.
 

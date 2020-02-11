@@ -1,4 +1,4 @@
-# Communicating with the Server
+# Communicating with the Server through Messages
 
 Monitoring events in realtime is what makes WebSockets extremely functional. Hence, in the next few steps, we will be communicating with the server, checking the response and saving messages for future use.
 
