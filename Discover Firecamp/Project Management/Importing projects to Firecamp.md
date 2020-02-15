@@ -28,4 +28,5 @@ Firecamp supports migration and importing projects from the following platforms.
 2. Insomnia
 3. Open API
 4. Async API
-5. Firecamp (Previous Versions)
+5. HAR
+6. Firecamp (Previous Versions)
