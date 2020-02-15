@@ -1,7 +1,4 @@
-# What exactly are GraphQL endpoints?
-
-Completion Status: No
-Created: Jan 26, 2020 3:48 AM
+# GraphQL endpoints?
 
 ## Overview
 

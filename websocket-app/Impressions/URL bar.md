@@ -12,10 +12,8 @@ Firecamp WebSocket app offers support to configure protocols for your WebSocket 
 
 > Placeholder for Config menu screenshot in ws app
 
-
 ## Additional Resources
 
-- API Endpoints
 - Request Methods
 - Environmental Snippets
 - Projects in Firecamp
