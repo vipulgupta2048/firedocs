@@ -9,5 +9,4 @@ The Config Dock in the Ably Channel integration is to enter the credentials for 
 
 Errors in the credentials are shown upon connecting to Ably Channels which can be done by clicking the blue `Connect` button located in the Config Dock.
 
-
 > Are both credentials compulsory to enter?
