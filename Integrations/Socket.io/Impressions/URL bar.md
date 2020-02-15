@@ -4,7 +4,7 @@
 
 The URL bar in the Socket.io integration is the hub area for establishing, modifying and saving connections.
 
-The URL bar is where you can specify the server endpoint in the URL field and use the `Connect` button to establish a connection with the Socket.io server. The `Default` and `Project` environmental snippets (if working on project) can be selected and modified from the dropdown menu located in the URL bar.
+The URL bar is where you can specify the socket endpoint in the URL field and use the `Connect` button to establish a connection with the Socket.io server. The `Default` and `Project` environmental snippets (if working on project) can be selected and modified from the dropdown menu located in the URL bar.
 
 ## Configuring your Connect
 
