@@ -1,9 +1,9 @@
 # Headers
 
 ## Overview
-Request headers are typically used for authentication and to provide information about the body of the request. The authentication headers could be anything from basic auth credentials to an API key or a token for OAuth2 security.
+Request headers are typically used for authentication and to provide information about the body of the request. They represent the metadata associated with API requests and responses.
 
-API Headers contain information regarding the request made to the API. Typically being used for authentication, specifying body type and tracking issues. HTTP Headers represent the metadata associated with API requests and responses. Headers carry information for:
+The `Headers` pass information regarding authentication, specify body type and track issues. These can be needed for:
 
 - Request and Response Body
 - Request Authorization
@@ -11,9 +11,9 @@ API Headers contain information regarding the request made to the API. Typically
 - Response Cookies
 - HTTP connection types and more
 
-Firecamp allows you to create and configure headers right from the `Header` tab available in the request panel of the API app. Where headers can be added to requests in key-value pairs and the use of variables can also be done in the `value` field with the help of environmental snippets.
+Firecamp allows you to create and configure headers from the `Headers` tab available in the request panel of the API app. Where headers can either be added in key-value pairs or by using variables through environmental snippets.
 
-You will have to set the request headers before sending the request for testing an API. Some of the popular headers are mentioned below:
+Some popular headers are mentioned below:
 
 - **Authorization**: Carries credentials or UUID keys containing the authentication information of the client for the resource being requested.
 
