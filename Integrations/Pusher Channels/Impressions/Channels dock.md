@@ -1,1 +1,16 @@
+# Channels dock
+
+## Overview 
+
+The channels dock in your Pusher Integration is where all your saved channels are displayed under the category they belong to. 
+
+There are three catoegories of Pusher channels, namely:
+
+- Public 
+- Private
+- Presence 
+
+You can access the saved channels from the Channels dock, open them, and run them later.
+
+
 
