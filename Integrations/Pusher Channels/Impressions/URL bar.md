@@ -2,23 +2,10 @@
 
 ## Overview
 
-The URL bar in the Socket.io integration is the hub area for establishing, modifying and saving connections.
+The URL bar in the Pusher Integration is the hub area for establishing, modifying and saving connections.
 
-The URL bar is where you can specify the socket endpoint in the URL field and use the `Connect` button to establish a connection with the Socket.io server. The `Default` and `Project` environmental snippets (if working on project) can be selected and modified from the dropdown menu located in the URL bar.
-
-## Configuring your Connect
-
-Firecamp Socket.io integartion offers support to configure several options for your Socket.io connection. These are as follows,
-1. **Path** - To specify path, type the path in the input field.
-2. **ForceNew** - To enable ForceNew, click on the checkbox listed.
-3. **Transport** - To specify Transport, choose one or more options that are available by click on the checkbox. Options include `Polling` and `WebSockets`.
-4. **Query** - To specify Query Parameters, enter the data in the form key/value pairs in the table.
-5. **Headers** - To specify Headers, enter the data in the form key/value pairs in the table.
-
-> Placeholder for Config menu screenshot in Socket.io integartion
+The URL bar is where you can specify your Pusher endpoint in the URL field and click the `Connect` button to establish a connection with your Pusher app. You can save your existing Pusher channel along with its binds and triggers globally by clicking the `Save` button in the URL Bar. By doing so, all the members of the workspace/project/module will be able to see, run and modify the channel in the `Channels dock`. 
 
 
 ## Additional Resources
 
-- Environmental Snippets
-- Projects in Firecamp
