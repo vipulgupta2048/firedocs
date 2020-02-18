@@ -17,12 +17,10 @@ Navigate to the tab having your desired language. Select the code snippet using 
 Firecamp currently supports the following options:
 
 - CPP
-- C#
+- DotNet
 - Dart
-- Go
 - Java
 - Javascript
 - Objective-C
 - Python
-- Ruby
 - Swift
