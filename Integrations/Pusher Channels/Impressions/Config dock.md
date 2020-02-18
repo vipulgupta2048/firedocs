@@ -1,10 +1,11 @@
 # Config Dock
 
-The Config Dock in the Ably Channel integration is to enter the credentials for establishing a connection. To connect with the Ably Channels, enter the following credentials.
+The Config Dock in the Pusher Channel integration lets you establish connect to your Pusher accounts by entering the credentials of your Pusher App. To connect to the Pusher Channels, enter the following credentials:
 
-- **`ApiKey` or `AuthUrl`** - To specify the `ApiKey` or `AuthUrl` for your Ably Channels, enter either the ApiKey or AuthUrl in the input field specified in the Config Dock.
-- **`Client Id`** - To specify the `Client Id`for your Ably Channels, enter the Id in the field specified in the Config Dock.
+- **`App Key`** - To specify the `App Key` for your Pusher Channels, enter the App Key in the input field specified in the Config dock.
+
+- **`Cluster`** - To specify the `Cluster` for your Pusher Channels, enter the Cluster value in the field specified in the Config dock.
 
 > Screenshot of the Config Dock.
 
-Errors in the credentials are shown upon connecting to Ably Channels which can be done by clicking the blue `Connect` button located in the Config Dock.
+Errors in the credentials are shown upon connecting to Pusher Channels which can be done by clicking the blue `Connect` button located in the Config Dock.
