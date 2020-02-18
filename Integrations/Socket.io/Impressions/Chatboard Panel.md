@@ -10,5 +10,5 @@ The chatboard also provides constant updates about the status of the WebSocket c
 
 
 ## Additional Resource
-- Code Snippets for WebSockets
-- Communicating with server through messages
+- Code Snippets
+
