@@ -12,6 +12,6 @@ Firecamp offers features that effectively manage your projects and modules as pe
 
 - **Delete**: To delete a project/module/request/file, go into the menu > select `Delete` option. Click the `delete` button in the box that appears to delete the project/module/request/file
 
-- **Env Snippets**: To view and modify environmental snippets associated with the specific project, go into the menu > select the `Env Snippets` option. Read more about Environmental Snippets on Firecamp.
+- **Env Snippets**: To view and modify environment snippets associated with the specific project, go into the menu > select the `Env Snippets` option. Read more about Environment Snippets on Firecamp.
 
 - **Export**: Firecamp export projects in JSON format. To export a project, go into the menu > select the `Export` option. In the dialog box that opens, specify where the file needs to be saved and click the `Save` button.
