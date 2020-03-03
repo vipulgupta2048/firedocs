@@ -11,7 +11,7 @@ The `Headers` pass information regarding authentication, specify body type and t
 - Response Cookies
 - HTTP connection types and more
 
-Firecamp allows you to create and configure headers from the `Headers` tab available in the request panel of the API app. Where headers can either be added in key-value pairs or by using variables through environmental snippets.
+Firecamp allows you to create and configure headers from the `Headers` tab available in the request panel of the API app. Where headers can either be added in key-value pairs or by using variables through environment snippets.
 
 Some popular headers are mentioned below:
 
@@ -22,3 +22,7 @@ Some popular headers are mentioned below:
 - **Accept-Charset**: Indicates character sets acceptable by the client to the server.
 
 - **Cache-Control**: Indicates cache policy defined by the server, a cached response can be stored by the client and re-used till the time defined by the Cache-Control header.
+
+## Additional Resources
+
+- Environment Snippets

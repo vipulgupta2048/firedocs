@@ -12,7 +12,7 @@ N/A
 
 3. In the interface that opens, type the endpoint that you want to test in the URL bar. Firecamp by default has the sample endpoint `ws://echo.websocket.org` listed in the URL bar.
 
- - Optionally, you can specify environmental snippets through the dropdown menu and enter protocols needed in the config box located on the left of the `Connect` button.
+ - Optionally, you can specify environment snippets through the dropdown menu and enter protocols needed in the config box located on the left of the `Connect` button.
 
 4. When the endpoint has been configured, click the blue `Connect` button to establish the connection with the server.
 
@@ -32,4 +32,5 @@ Voila! You established your first WebSocket connection successfully and closed i
 ### Additional resources
 - Chatboard Panel
 - URL bar
+- Environement Snippets
 - WebSocket endpoints
