@@ -1,16 +1,16 @@
 # What are Workspaces?
-Workspaces in Firecamp are hubs for your projects in which you can work, collaborate and share your work with team members in your organization. Workspaces consists of projects that helps you test your 3rd party API's or your own API's that you or your team is working on together. All changes to projects, modules, requests, files, and environement snippets are shared and synced with other teammates working on the same Workspace.
+Workspaces in Firecamp are hubs for your projects in which you can work, collaborate and share your work with team members in your organization. Workspaces consist of projects that help you test your 3rd party API's or your own API's that you or your team is working on together. All changes to projects, modules, requests, files, and environment snippets are shared and synced with other teammates working on the same Workspace.
 
 Workspaces are off 2 types:
 1. Personal Workspaces are available to only you (The owner of the account) and are private in nature.
-2. Organisation Workspaces are available to only those team members which have been invited and have the relevant permission to access it.
+2. Organization Workspaces are available to only those team members who have been invited and have the relevant permission to access it.
 
 # Creating your first Workspace and inviting members
 To create a new Workspace in Firecamp:
 1. Click the downward arrow next to the current Workspace name in the top-left corner of the Firecamp app.
 2. In the menu that opens, select the option `Create New Workspace`.
 3. In the `Create Workspace` modal that opens, enter the `Name`, `Description` and the `Type` of Workspace that you are creating.
-    - One can choose it to be a personal Workspace or an organization Workspace. For the Workspace to be created under a new organisation. Refer to `Creating your first orgnization.`
+    - One can choose it to be a personal Workspace or an organization Workspace. For the Workspace to be created under a new organization. Refer to `Creating your first organization.`
 5. Click the `Next` button to start inviting members using email addresses.
 4. When donem click the `Create Workspace` button to create your Workspace.
 
@@ -18,10 +18,10 @@ To create a new Workspace in Firecamp:
 To manage your current Workspace in Firecamp:
 1. Click the downward arrow next to the current Workspace name in the top-left corner of the Firecamp app.
 2. In the menu that opens, select the option `Manage <NAME> Workspace`.
-3. The modal that opens will have the name of the Workspace alongwith the organization name below it:
-   - Navigate to the `Members` tab for checking member information, and modifying their access to the Workspace. To remove the Workspace, click the `Remove Workspace` button. If you don't see options to do so then check that you aren't in your personal Workspace or have the right permission to remove the workspace.
-   - Navigate to the `Invite` tab for inviting members. To invite folks to the Workspace, click the `Invite` button. If you don't see options to do so then check that you aren't in your personal Workspace or don't have admin access to the organization.
-   - Navigate to the `Details` tab to either view more information about the Workspace or update it if you have relevant permission. To update the information, modify the data present in the fields and when done click the `Update` buttont
+3. The modal that opens will have the name of the Workspace along with the organization name below it:
+   - Navigate to the `Members` tab for checking member information, and modifying their access to the Workspace. To remove the Workspace, click the `Remove Workspace` button. If you don't see options to do so then check that you aren't in your Personal Workspace or have the right permission to remove the workspace.
+   - Navigate to the `Invite` tab for inviting members. To invite folks to the Workspace, click the `Invite` button. If you don't see options to do so then check that you aren't in your Personal Workspace or don't have admin access to the organization.
+   - Navigate to the `Details` tab to either view more information about the Workspace or update it if you have relevant permission. To update the information, modify the data present in the fields and when done click the `Update` button
 
 # Next Steps
 - Organizations
