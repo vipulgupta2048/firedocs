@@ -1,6 +1,6 @@
 # Firecamp for Teams
 
-Firecamp is built with collaboration and accessiblity in mind for teams working in an distributed environment. Therefore, Firecamp provides features to setup organizations and workspaces for inviting members into your team to build, test and deploy your API's faster.
+Firecamp is built with collaboration and accessiblity in mind for teams working in an distributed environment. Providing features to setup Workspaces under organizations and invite members to those Workspaces to build, test and deploy your API's faster while collaborating with your teammates.
 
 ## Organizations in Firecamp
 
@@ -12,14 +12,14 @@ Let's start understanding organizations through an overview of project managemen
     - An organization can have multiple workspaces.
     ^ Workspaces + Members
         - Workspaces are collection of projects, environmental snippets and members.
-        - Multiple members can be invited to collaborate on projects inside Workspaces.
+        - Multiple members can be invited to collaborate on projects saved inside Workspaces.
 
         ^ Projects
             - A workspace can have multiple saved projects.
             - A project can have multiple modules with requests and files saved inside them.
 ```
 
-Organizations can be your company, startup or venture which hosts several workspaces for different purposes with team members having access to them and working together in sync.
+Organizations can be your company, startup or venture which hosts several workspaces for different purposes with team members having access to them and working together in sync on different projects.
 
 ## Creating your first organization
 
