@@ -1,8 +1,4 @@
-<<<<<<< HEAD:api-app/Impressions/Params.md
 # Query Parameters
-=======
-# Params (Query Parameters)
->>>>>>> a48f8f10f89c78f1f8e40effaaf920f3d735faa7:api-app/Impressions/Query Parameters.md
 
 ## Overview
 
