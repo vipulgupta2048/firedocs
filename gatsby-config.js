@@ -28,12 +28,12 @@ module.exports = {
           // algoliaApiKey: '768e823959d35bbd51e4b2439be13fb7',
           // algoliaIndexName: 'apollodata',
           baseUrl: 'https://doc.firecamp.io',
-          twitterHandle: 'apollographql',
+          twitterHandle: 'FirecampHQ',
           spectrumHandle: 'firecamp',
           youtubeUrl: 'https://www.youtube.com/channel/UC7lDNSOMvPOMt3ylaNLLIdA',
           logoLink: 'https://doc.firecamp.io',
-          // baseDir: 'docs',
-          // contentDir: 'source',
+          baseDir: 'docs',
+          contentDir: 'source',
           navConfig: {
             'Firecamp Basics': {
               url: 'http://localhost:8000/',
@@ -76,15 +76,29 @@ module.exports = {
             }
           },
           sidebarCategories: {
-            null: ['index'],
-            APIs: [
-              'apis/actions/adding-and-managing-bodies-for-your-API-request',
-              'apis/actions/generating-code-snippets',
-              'apis/actions/observing-the-response-panel',
-              'apis/actions/saving-your-requests',
-              'apis/actions/sending-your-first-request',
-              'apis/ations/writing-graphql-queries '
+            null: [
+              // 'index',
+              'apis/actions/generating-code-snippets'
             ],
+            // APIs: [
+            //   // 'apis/actions/adding-&-managing-bodies-for-your-api-request',
+            //   'apis/actions/generating-code-snippets',
+            //   // 'apis/actions/observing-the-response-panel',
+            //   // 'apis/actions/saving-your-requests',
+            //   // 'apis/actions/sending-your-first-request',
+            //   // 'apis/ations/writing-graphql-queries',
+
+            //   // 'apis/impressions/api-endpoints',
+            //   // 'apis/impressions/authentication-type-selection',
+            //   // 'apis/impressions/code-generator-for-requests',
+            //   // 'apis/impressions/headers',
+            //   // 'apis/impressions/query-parameters',
+            //   // 'apis/impressions/quick-body-type-selection',
+            //   // 'apis/impressions/quick-method-selection',
+            //   // 'apis/impressions/request-panel',
+            //   // 'apis/impressions/response-panel',
+            //   // 'apis/impressions/url-bar',
+            // ],
             Features: [
               'features/mocking',
               'features/f2/m2',

@@ -2,10 +2,9 @@
   "dependencies": {
     "@mdx-js/mdx": "^1.5.7",
     "@mdx-js/react": "^1.5.7",
-    "gatsby": "^2.19.23",
-    "gatsby-plugin-mdx": "^1.0.74",
+    "gatsby": "^2.19.28",
     "gatsby-source-filesystem": "^2.1.48",
-    "gatsby-theme-apollo-docs": "^4.0.10",
+    "gatsby-theme-apollo-docs": "^4.0.11",
     "react": "^16.13.0",
     "react-dom": "^16.13.0"
   }
