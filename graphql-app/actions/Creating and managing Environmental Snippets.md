@@ -20,5 +20,5 @@ To be able to follow along with this Action, make sure to learn about Environmen
 
 ### Additional resources
 
--
--
+- 
+- 
