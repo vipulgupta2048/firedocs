@@ -81,8 +81,8 @@ module.exports = {
             null: [
               'index'
             ],
-            APIs: [
-              'apis/actions/adding-&-managing-bodies-for-your-api-request',
+            "HTTP APIs": [
+              // 'apis/actions/adding-&-managing-bodies-for-your-api-request',
               'apis/actions/generating-code-snippets',
               'apis/actions/observing-the-response-panel',
               'apis/actions/saving-your-requests',
@@ -120,6 +120,18 @@ module.exports = {
               'apis/impressions/response-panel',
               'apis/impressions/url-bar',
             ],
+
+            WebSocket: [
+              "websocket/actions/establishing-your-first-websocket-connection",
+              "websocket/actions/communicating-with-the-server-through-messages",
+              "websocket/actions/saving-and-managing-messages",
+
+              "websocket/impressions/chatboard-panel",
+              "websocket/impressions/code-snippets-for-websockets",
+              "websocket/impressions/message-collection-panel",
+              "websocket/impressions/message-panel",
+              "websocket/impressions/url-bar",
+            ]
             
           }
         }

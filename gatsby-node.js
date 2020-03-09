@@ -12,6 +12,8 @@ exports.createSchemaCustomization = ({ actions }) => {
               version: String
               slug: String
               graphManagerUrl: String
+              versionRef: String
+              sidebarTitle: String
           }
           type MarkdownRemarkFrontmatter {
               title: String
