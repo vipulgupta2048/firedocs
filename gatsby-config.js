@@ -3,12 +3,14 @@ const themeOptions = require('gatsby-theme-apollo-docs/theme-options')
 // console.log(themeOptions, `${__dirname}/src/pages`)
 module.exports = {
     siteMetadata: {
+        siteName: "Firecamo document",
         title: 'Firecamp documentation',
         description: 'VS code for API things',
         author: '@Nishchit14',
     },
-    pathPrefix: '/docs',
+    pathPrefix: '/',
     plugins: [
+      "gatsby-plugin-mdx",
       {
         resolve: 'gatsby-theme-apollo-docs',
         options: {
@@ -32,7 +34,7 @@ module.exports = {
           spectrumHandle: 'firecamp',
           youtubeUrl: 'https://www.youtube.com/channel/UC7lDNSOMvPOMt3ylaNLLIdA',
           logoLink: 'https://doc.firecamp.io',
-          baseDir: 'docs',
+          baseDir: '/',
           contentDir: 'source',
           navConfig: {
             'Firecamp Basics': {
@@ -77,34 +79,48 @@ module.exports = {
           },
           sidebarCategories: {
             null: [
-              // 'index',
-              'apis/actions/generating-code-snippets'
+              'index'
             ],
-            // APIs: [
-            //   // 'apis/actions/adding-&-managing-bodies-for-your-api-request',
-            //   'apis/actions/generating-code-snippets',
-            //   // 'apis/actions/observing-the-response-panel',
-            //   // 'apis/actions/saving-your-requests',
-            //   // 'apis/actions/sending-your-first-request',
-            //   // 'apis/ations/writing-graphql-queries',
+            APIs: [
+              'apis/actions/adding-&-managing-bodies-for-your-api-request',
+              'apis/actions/generating-code-snippets',
+              'apis/actions/observing-the-response-panel',
+              'apis/actions/saving-your-requests',
+              'apis/actions/sending-your-first-request',
+              'apis/ations/writing-graphql-queries',
 
-            //   // 'apis/impressions/api-endpoints',
-            //   // 'apis/impressions/authentication-type-selection',
-            //   // 'apis/impressions/code-generator-for-requests',
-            //   // 'apis/impressions/headers',
-            //   // 'apis/impressions/query-parameters',
-            //   // 'apis/impressions/quick-body-type-selection',
-            //   // 'apis/impressions/quick-method-selection',
-            //   // 'apis/impressions/request-panel',
-            //   // 'apis/impressions/response-panel',
-            //   // 'apis/impressions/url-bar',
-            // ],
-            Features: [
-              'features/mocking',
-              'features/f2/m2',
-              // 'features/errors',
-              // 'features/data-sources'
-            ]
+              'apis/impressions/api-endpoints',
+              'apis/impressions/authentication-type-selection',
+              'apis/impressions/code-generator-for-requests',
+              'apis/impressions/headers',
+              'apis/impressions/query-parameters',
+              'apis/impressions/quick-body-type-selection',
+              'apis/impressions/quick-method-selection',
+              'apis/impressions/request-panel',
+              'apis/impressions/response-panel',
+              'apis/impressions/url-bar',
+            ],
+
+            GraphQL: [
+              'apis/actions/adding-&-managing-bodies-for-your-api-request',
+              'apis/actions/generating-code-snippets',
+              'apis/actions/observing-the-response-panel',
+              'apis/actions/saving-your-requests',
+              'apis/actions/sending-your-first-request',
+              'apis/ations/writing-graphql-queries',
+
+              'apis/impressions/api-endpoints',
+              'apis/impressions/authentication-type-selection',
+              'apis/impressions/code-generator-for-requests',
+              'apis/impressions/headers',
+              'apis/impressions/query-parameters',
+              'apis/impressions/quick-body-type-selection',
+              'apis/impressions/quick-method-selection',
+              'apis/impressions/request-panel',
+              'apis/impressions/response-panel',
+              'apis/impressions/url-bar',
+            ],
+            
           }
         }
       }
