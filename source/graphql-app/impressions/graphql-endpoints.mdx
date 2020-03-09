@@ -1,9 +1,0 @@
-# GraphQL endpoints?
-
-## Overview
-
-APIs are made up of endpoints - or separate URLs - that define what resources are available, which operations can be done on them, and what information is required when making a request. **GraphQL endpoints** facilitate the interaction of one system with another system that takes care of processing and storage of data. An endpoint is a technical term associated with API's (Application Programming Interface).
-
-In general, endpoints are the location where two software programs are allowed to communicate with each other. The endpoint refers to the location that the GraphQL API service itself is located, while the resource refers to specific datasets within the server's backend. Beyond these two components, many URLs will also contain queries and path parameters that drill down into even more specific sets of data.
-
-GraphQL endpoints are similar to REST and often use the same HTTP(s) transports as REST. However, rather than using various path-based URIs and HTTP verbs, GraphQL endpoint uses a single endpoint with a defined schema that specifies how to not only fetch data but also mutate, or change, data.
