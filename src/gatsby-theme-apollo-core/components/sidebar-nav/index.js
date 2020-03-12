@@ -194,7 +194,7 @@ export default function SidebarNav(props) {
     return 
   }
 
-  console.log(props, 8888888)
+  // console.log(props, 8888888)
   return (
     <Fragment>
       {props.contents.map(({title, path, pages}, index, array) => {
