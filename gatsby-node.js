@@ -20,6 +20,7 @@ exports.createSchemaCustomization = ({ actions }) => {
               subtitle: String
               description: String
               name: String
+              type: String
           }
       `)
   }
