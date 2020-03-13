@@ -102,20 +102,20 @@ module.exports = {
             ],
 
             GraphQL: [
+              'graphql/impressions/graphql-endpoints',
+              'graphql/impressions/url-bar',
+              'graphql/impressions/request-methods',
+              'graphql/impressions/playground',
               'graphql/impressions/collections',
               'graphql/impressions/explorer',
-              'graphql/impressions/graphql-endpoints',
-              'graphql/impressions/playground',
-              'graphql/impressions/request-methods',
               'graphql/impressions/request-panel',
               'graphql/impressions/response-panel',
-              'graphql/impressions/url-bar',
 
+              'graphql/actions/sending-your-first-request-with-graphql',
               'graphql/actions/configuring-graphql-end-points',
+              'graphql/actions/using-a-sample',
               'graphql/actions/observing-the-response-panel',
               'graphql/actions/saving-a-graphql-request',
-              'graphql/actions/sending-your-first-request-with-graphql',
-              'graphql/actions/using-a-sample',
             ],
 
             WebSocket: [
@@ -123,11 +123,11 @@ module.exports = {
               "websocket/actions/communicating-with-the-server-through-messages",
               "websocket/actions/saving-and-managing-messages",
 
-              "websocket/impressions/chatboard-panel",
-              "websocket/impressions/code-snippets-for-websockets",
-              "websocket/impressions/message-collection-panel",
-              "websocket/impressions/message-panel",
               "websocket/impressions/url-bar",
+              "websocket/impressions/message-panel",
+              "websocket/impressions/chatboard-panel",
+              "websocket/impressions/message-collection-panel",
+              "websocket/impressions/code-snippets-for-websockets",
             ]
             
           }
