@@ -3,7 +3,7 @@ const themeOptions = require('gatsby-theme-apollo-docs/theme-options')
 // console.log(themeOptions, `${__dirname}/src/pages`)
 module.exports = {
     siteMetadata: {
-        siteName: "Firecamo document",
+        siteName: "Firecamp document",
         title: 'Firecamp documentation',
         description: 'VS code for API things',
         author: '@Nishchit14',
@@ -83,22 +83,22 @@ module.exports = {
             ],
             "HTTP APIs": [
               // 'apis/actions/adding-&-managing-bodies-for-your-api-request',
-              'apis/actions/generating-code-snippets',
+              'apis/actions/sending-your-first-request',
               'apis/actions/observing-the-response-panel',
               'apis/actions/saving-your-requests',
-              'apis/actions/sending-your-first-request',
+              'apis/actions/generating-code-snippets',
               'apis/ations/writing-graphql-queries',
 
-              'apis/impressions/api-endpoints',
-              'apis/impressions/authentication-type-selection',
-              'apis/impressions/code-generator-for-requests',
-              'apis/impressions/headers',
-              'apis/impressions/query-parameters',
-              'apis/impressions/quick-body-type-selection',
-              'apis/impressions/quick-method-selection',
+              'apis/impressions/url-bar',
               'apis/impressions/request-panel',
               'apis/impressions/response-panel',
-              'apis/impressions/url-bar',
+              'apis/impressions/quick-body-type-selection',
+              'apis/impressions/quick-method-selection',
+              'apis/impressions/query-parameters',
+              'apis/impressions/headers',
+              'apis/impressions/authentication-type-selection',
+              'apis/impressions/code-generator-for-requests',
+              'apis/impressions/api-endpoints',
             ],
 
             GraphQL: [

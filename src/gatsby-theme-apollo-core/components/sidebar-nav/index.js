@@ -191,7 +191,6 @@ export default function SidebarNav(props) {
       header,
       categoryContents
     ]
-    return 
   }
 
   // console.log(props, 8888888)
